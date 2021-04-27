@@ -1,3 +1,3 @@
 # README
 
-Simple Investment App
+Simple Investment App #Rails6
